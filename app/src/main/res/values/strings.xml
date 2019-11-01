@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application_test3_03_instant_message_app</string>
+    <string name="app_name2">My Application_test3_04</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">南大用户名</string>
+    <string name="nav_header_subtitle">email@ncu.edu.cn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">退出聊天</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="drawer_menu_home_title">首页</string>
+    <string name="drawer_menu_notification_title">通知</string>
+    <string name="drawer_menu_setting_title">软件设置</string>
+    <string name="drawer_menu_logout_title">退出登录</string>
+    <string name="userName">playing_the_fool</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+</resources>
